@@ -1,10 +1,10 @@
 {
-  "name": "ckMongoTest",
+  "name": "MongoRender",
   "version": "1.0.0",
   "description": "CKs Express Mongo Test on Render",
   "main": "testmongo.js",
   "repository": "https://github.com/michealemuld3er/MongoRender",
-  "author": "CK",
+  "author": "MM",
   "license": "MIT",
   "private": false,
   "scripts": {
